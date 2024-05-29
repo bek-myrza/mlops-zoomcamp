@@ -161,3 +161,4 @@ cython_debug/
 
 # Folders
 /01-intro/data/
+/02-experiment-tracking/data/
